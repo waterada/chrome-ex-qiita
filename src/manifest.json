@@ -1,7 +1,7 @@
 {
   "name": "Qiita Slide 改",
   "description": "Qiita のスライドビュー機能を便利にするプラグインです。行番号をつけたり、カーソル大きくしたり、赤文字を使えるようにしたり等いろいろします。",
-  "version": "1.4",
+  "version": "1.25",
   "manifest_version": 2,
   "icons": {
     "16":  "icon.png",
